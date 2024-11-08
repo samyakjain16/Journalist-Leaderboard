@@ -130,9 +130,9 @@ Point values can be adjusted in the Configuration Sheet:
 
 | Article Type | Default Points |
 |--------------|----------------|
-| Front Page   | 10            |
-| Exclusive    | 8             |
-| Standard     | 5             |
+| Front Page   | 100           |
+| Exclusive    | 50           |
+| Standard     | 10            |
 
 ## 🚀 Getting Started
 
