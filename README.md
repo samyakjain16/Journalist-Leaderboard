@@ -148,3 +148,11 @@ Point values can be adjusted in the Configuration Sheet:
 - Requires minimal manual intervention
 - Point system can be adjusted without code changes
 - Real-time updates ensure current data
+
+![Screenshot 2024-11-09 at 3 00 43 AM](https://github.com/user-attachments/assets/c2be25f4-fa8f-405a-9f47-822b8353ee48)
+
+
+https://github.com/user-attachments/assets/2e1e2e13-c444-4697-9a60-19397b8513e2
+
+
+
