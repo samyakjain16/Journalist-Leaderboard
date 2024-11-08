@@ -44,7 +44,7 @@ The Journalist Leaderboard System tracks and ranks journalists based on their pu
 - **React.js**: User interface
 - **Tailwind CSS**: Styling
 
-#### AI Integration
+#### LLM Integration
 - **Claude AI API**: PDF text extraction and processing
 
 ## 💾 Data Structure
