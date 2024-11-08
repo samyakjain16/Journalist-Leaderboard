@@ -1,6 +1,6 @@
 # Journalist Leaderboard 📰
 
-An automated real-time system for tracking and ranking journalists based on their published articles.
+An semi-automated real-time system for tracking and ranking journalists based on their published articles.
 
 
 ## Task Requirements:
@@ -14,7 +14,7 @@ There should be an ability to edit how the leaderboard assigns points, and to ha
 
 ## 📋 Overview
 
-The Journalist Leaderboard System automatically tracks and ranks journalists based on their publications in The Australian Financial Review and The Australian. The system updates daily, providing a real-time leaderboard of the top 5 journalists based on a 30-day moving average of points.
+The Journalist Leaderboard System tracks and ranks journalists based on their publications in The Australian Financial Review and The Australian. The system updates daily, providing a real-time leaderboard of the top 5 journalists based on a 30-day moving average of points.
 
 ### Key Features
 
