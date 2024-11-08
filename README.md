@@ -1,6 +1,6 @@
 # Journalist Leaderboard 📰
 
-An semi-automated real-time system for tracking and ranking journalists based on their published articles.
+An Automated/Human in the loop real-time system for tracking and ranking journalists based on their published articles.
 
 
 ## Task Requirements:
