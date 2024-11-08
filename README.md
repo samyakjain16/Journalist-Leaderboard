@@ -1,4 +1,4 @@
-# Journalist Leaderboard System 📰
+# Journalist Leaderboard 📰
 
 An automated real-time system for tracking and ranking journalists based on their published articles.
 
