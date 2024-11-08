@@ -3,7 +3,7 @@
 An automated real-time system for tracking and ranking journalists based on their published articles.
 
 
-## Task requirements:
+## Actual Ask:
 
 - Create a journalist leaderboard table that automatically refreshes every day. The table will show the top 5 journalists based on a 30-day moving average of points. The leaderboard will assign points based on journalists' number of front page splashes, number of exclusives, and the number of articles (in print). Initially, the scope is The Australian Financial Review and The Australian.
 
