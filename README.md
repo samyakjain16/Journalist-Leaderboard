@@ -26,6 +26,9 @@ The Journalist Leaderboard System automatically tracks and ranks journalists bas
 
 ## 🏗️ System Architecture
 
+![Screenshot 2024-11-08 at 11 33 36 PM](https://github.com/user-attachments/assets/de93aa1c-dc82-4226-8e1f-21006888b07f)
+
+
 ### Technology Stack
 
 #### Firebase Platform
@@ -75,15 +78,23 @@ The Journalist Leaderboard System automatically tracks and ranks journalists bas
    - Primary data repository
    - Columns: Date, ID, Name, Publication, Front Page, Exclusive, Standard, Daily Points
    - Automated point calculations
+  
+![Screenshot 2024-11-08 at 11 47 45 PM](https://github.com/user-attachments/assets/18900af9-79b7-4cc5-b008-0767c11bff20)
+
 
 2. **Master Sheet**
    - Overall performance tracking
    - Columns: ID, Name, Overall Points
    - Auto-updates from Daily Entries
 
+![Screenshot 2024-11-08 at 11 47 52 PM](https://github.com/user-attachments/assets/8fee4bc7-050a-4b79-bbd0-fae49ba89aa9)
+
+
 3. **Configuration Sheet**
    - System settings and point values
    - Configurable without code changes
+
+
 
 4. **New Data Sheet**
    - Temporary storage for processed data
@@ -104,6 +115,8 @@ The Journalist Leaderboard System automatically tracks and ranks journalists bas
    - Results stored in RTDB
    - Google Sheets synchronized
    - Leaderboard updated
+
+
 
 ## 💰 Costs
 
