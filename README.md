@@ -12,6 +12,11 @@ An Automated/Human in the loop real-time system for tracking and ranking journal
 - Acceptance: - The ideal output is a table that refreshes every morning at 9am based on an updated 30 day moving average - The table should be able to be hosted on a webpage.
 There should be an ability to edit how the leaderboard assigns points, and to have legibility into how points have been assigned (in the backend)
 
+![Screenshot 2024-11-09 at 3 00 43 AM](https://github.com/user-attachments/assets/c2be25f4-fa8f-405a-9f47-822b8353ee48)
+
+
+https://github.com/user-attachments/assets/2e1e2e13-c444-4697-9a60-19397b8513e2
+
 ## 📋 Overview
 
 The Journalist Leaderboard System tracks and ranks journalists based on their publications in The Australian Financial Review and The Australian. The system updates daily, providing a real-time leaderboard of the top 5 journalists based on a 30-day moving average of points.
@@ -149,10 +154,7 @@ Point values can be adjusted in the Configuration Sheet:
 - Point system can be adjusted without code changes
 - Real-time updates ensure current data
 
-![Screenshot 2024-11-09 at 3 00 43 AM](https://github.com/user-attachments/assets/c2be25f4-fa8f-405a-9f47-822b8353ee48)
 
-
-https://github.com/user-attachments/assets/2e1e2e13-c444-4697-9a60-19397b8513e2
 
 
 
