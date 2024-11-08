@@ -5,9 +5,11 @@ An automated real-time system for tracking and ranking journalists based on thei
 
 ## Task requirements:
 
-Create a journalist leaderboard table that automatically refreshes every day. The table will show the top 5 journalists based on a 30-day moving average of points. The leaderboard will assign points based on journalists' number of front page splashes, number of exclusives, and the number of articles (in print). Initially, the scope is The Australian Financial Review and The Australian.
-Currently: You could track this manually by looking at the print editions of both publications every day and assigning points based on # of front page splashes and # of articles, and recording points in Excel. Tech stack: The sources would be the 'Today's Edition' PDF of the AFR and The Australian.
-Acceptance: - The ideal output is a table that refreshes every morning at 9am based on an updated 30 day moving average - The table should be able to be hosted on a webpage.
+- Create a journalist leaderboard table that automatically refreshes every day. The table will show the top 5 journalists based on a 30-day moving average of points. The leaderboard will assign points based on journalists' number of front page splashes, number of exclusives, and the number of articles (in print). Initially, the scope is The Australian Financial Review and The Australian.
+
+- Currently: You could track this manually by looking at the print editions of both publications every day and assigning points based on # of front page splashes and # of articles, and recording points in Excel. Tech stack: The sources would be the 'Today's Edition' PDF of the AFR and The Australian.
+
+- Acceptance: - The ideal output is a table that refreshes every morning at 9am based on an updated 30 day moving average - The table should be able to be hosted on a webpage.
 There should be an ability to edit how the leaderboard assigns points, and to have legibility into how points have been assigned (in the backend)
 
 ## 📋 Overview
